@@ -1,0 +1,49 @@
+html, body {
+  
+background-color: white;
+height:  100%;
+  color: white;
+
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: grey;
+}
+
+a:hover {
+  color: lightpink;
+}
+
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+ 
+  margin: 0;
+  display:  flex;
+  justify-content:  center;
+  align-items:  center;
+
+}
+
+canvas {
+  display: block;
+}
+
+p {
+  position: absolute;
+    top: 10px;
+  right: 30px;
+
+}
+
+.aboutext {
+  padding: 50px;
+  text-align: center;
+  }
+
+
+
